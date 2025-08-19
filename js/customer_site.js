@@ -1,6 +1,6 @@
 const CUSTOMER_SITES = {
     qiqi: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        api: 'https://360zy.com/api.php/provide/vod',
         name: '七七资源',
     }
 };
