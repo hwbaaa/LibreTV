@@ -7,7 +7,7 @@ const CUSTOMER_SITES = {
 //        api: 'https://cj.rycjapi.com/api.php/provide/vod',
 //        name: '如意资源',
 //    }
-    qiqi: {
+    qi-qi: {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七-七资源',
     }    
