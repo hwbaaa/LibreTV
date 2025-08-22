@@ -3,7 +3,7 @@ const CUSTOMER_SITES = {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
     }
-        ruyi: {
+    ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
     }
@@ -11,11 +11,11 @@ const CUSTOMER_SITES = {
         api: 'https://subocaiji.com/api.php/provide/vod/',
         name: '速播资源',
     }
-                guangsu: {
+        guangsu: {
         api: 'https://api.guangsuapi.com/api.php/provide/vod/',
         name: '光速资源',
     }
-                       smzy: {
+        smzy: {
         api: 'https://img.smdyw.top/api.php/provide/vod',
         name: '神马资源',
     }
