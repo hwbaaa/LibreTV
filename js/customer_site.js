@@ -1,18 +1,12 @@
 const CUSTOMER_SITES = {
     qiqi: {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七+七资源',
+        name: '七七资源',
     }
-//    ruyi: {
-//        api: 'https://cj.rycjapi.com/api.php/provide/vod',
-//        name: '如意资源',
-//    }
-        
-    123: {
+    qi: {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七-七资源',
+        name: '七资源',
     }
-    
 };
 
 // 调用全局方法合并
