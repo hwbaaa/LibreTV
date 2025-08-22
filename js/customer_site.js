@@ -7,7 +7,10 @@ const CUSTOMER_SITES = {
 //        api: 'https://cj.rycjapi.com/api.php/provide/vod',
 //        name: '如意资源',
 //    }
-    
+    qiqi: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '七-七资源',
+    }    
 };
 
 // 调用全局方法合并
